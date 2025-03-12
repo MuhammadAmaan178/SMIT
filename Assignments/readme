@@ -1,1 +1,29 @@
+# Assignments - AI and Data Science Course
+
+This folder contains all the assignments completed throughout the AI and Data Science course at SMIT Zaitoon Ashraf Campus. Each assignment corresponds to a specific topic or module covered in the course.
+
+## Assignment Overview
+
+### **Assignment 1: Python Basics**
+- Task: Implement basic Python programs covering variables, loops, functions, and file handling.
+- Objective: To understand the fundamentals of Python programming.
+
+### **Assignment 2: Data Manipulation with Pandas**
+- Task: Use Pandas to clean, analyze, and visualize a dataset.
+- Objective: To practice data wrangling and visualization.
+
+### **Assignment 3: Machine Learning Model Implementation**
+- Task: Implement a classification model using Scikit-learn.
+- Objective: To apply machine learning concepts to a real-world dataset.
+
+### **Assignment 4: Neural Network with TensorFlow**
+- Task: Build a simple neural network for image classification.
+- Objective: To understand the basics of deep learning with TensorFlow.
+
+---
+
+Feel free to explore the individual assignment files for specific implementations and solutions.
+
+## License
+This repository is licensed under the MIT License.
 
