@@ -1,0 +1,10 @@
+WeatherApp: -
+WeatherApp is a simple and easy-to-use weather application that allows users to check the current weather conditions for any city around the world. It supports multiple locations, so you can check the weather in various cities at once.
+
+Features: -
+Current Weather: Get the latest weather details, including temperature, humidity, wind speed, and more.
+Search by City: Enter the name of a city to get its current weather information.
+Multiple Locations: Check the weather for multiple cities without having to reload the app.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
